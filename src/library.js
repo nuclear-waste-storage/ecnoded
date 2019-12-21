@@ -1,7 +1,8 @@
-[01wv 0zv601w N e
-  D][}[z(1]#x[yDC }#5y[M
-  Fy0!,57u<%z{x!:x!5z0FE ]%70!O
-  H@63#&%]'[$#2C#2136w#$HG @&92#Q
-l;
+const options = {
+  'deferUpdates': false,
+  'useOnlyNativeEvents': false,
+  'foreachHidesDestroyed': false,
+  'newOption': false,
+};
 
-![)6@(X(3}[978 Z [}7%[]8;
+module.exports = options;
