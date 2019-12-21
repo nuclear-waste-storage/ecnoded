@@ -15,18 +15,14 @@ hQ @07%1[67Y536@[9#Q 2[$#^&3X k
         ,(<)\c )-("m
         B,/_e 6_`A:CD=o C,A&5o
       9q
-      [
-        ",'<Bk </,Fu
-        J"A\m !\DIHKL|w K"I?]w
-      $y
-    $0
-  *;
+    9s
+  ];
 
-  ERCBEI _
-    *DPy MX:JDE8
-    )NVMF0 1ZKK0NVMF1{
-    -NOTOTI2 &GTXF[ JZNMX^ @{ >
-      LbPOZ@JV(OMPYVSZ@=JV*;
-    |#
-  ~;
-'=;
+  ~J|\~A %
+    ]`Hq EP>B`~0
+    @FNE"s tRCCsFNE"t2
+    $FGLGLAu ['LP"4 BRFEP} 72 +
+      DTHGR7BN!GEHQNKR7^BN];
+    =8
+  .;
+<^;
